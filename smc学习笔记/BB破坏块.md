@@ -1,4 +1,6 @@
 1. BB：突破块。MSB形成了一个新的Bos后，原来的OB就会形成BB，支阻互换
+    ①斐波那契0.5
+    ②支阻互换
     ![alt text](pic/image-56.png)
 2. BB就是失败的ob
     ![alt text](pic/image-57.png)
@@ -23,3 +25,12 @@
 10. 高品质的S/R翻转
     ![alt text](pic/image-69.png)
     ![alt text](pic/image-70.png)
+11. 交易形态1：弱的Bos，SFP流动性扫止损，吊锤
+    ![alt text](pic/image-71.png)
+    ![alt text](pic/image-72.png)
+12. 交易形态2
+    ![alt text](pic/image-73.png)
+    ![alt text](pic/image-74.png)
+13. 交易形态3：下跌的急，上升的缓慢
+    ![alt text](pic/image-75.png) 
+    ![alt text](pic/image-76.png)

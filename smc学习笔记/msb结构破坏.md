@@ -28,3 +28,4 @@
     ![alt text](pic/image-16.png)
     ![alt text](pic/image-17.png)
     > 止损放在LL下方
+9. 
