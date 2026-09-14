@@ -1,0 +1,25 @@
+1. BB：突破块。MSB形成了一个新的Bos后，原来的OB就会形成BB，支阻互换
+    ![alt text](pic/image-56.png)
+2. BB就是失败的ob
+    ![alt text](pic/image-57.png)
+3. MSB突破后，回调回来在突破那一腿的0.5的位置是比较标准的
+4. MSB突破后的回调，继续原有突破MSB的腿，目标为可以ab=cd，即等于突破MSB的那一腿
+    ![alt text](pic/image-58.png)
+5. OB与BB形成S/B翻转，即支阻互换
+    ![alt text](pic/image-59.png)
+    ![alt text](pic/image-60.png)
+6. 最佳突破块：弱Bos、强力突破、存在FVG缺口、强烈的S/R翻转
+    ![alt text](pic/image-61.png)
+    ![alt text](pic/image-62.png)
+7. 高质量的突破
+    ![alt text](pic/image-63.png)
+    ![alt text](pic/image-64.png)
+8. 高品质的MSB
+    ![alt text](pic/image-66.png)
+    ![alt text](pic/image-65.png)
+9. 高品质的BOS，形容趋势延续
+    ![alt text](pic/image-67.png)
+    ![alt text](pic/image-68.png)
+10. 高品质的S/R翻转
+    ![alt text](pic/image-69.png)
+    ![alt text](pic/image-70.png)
