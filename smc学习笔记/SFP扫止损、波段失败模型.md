@@ -1,0 +1,31 @@
+1. 专业交易者不会在阶段高点1个tick放止损，而是会让出一个atr，防止止损猎杀
+    ![alt text](pic/image-117.png)
+2. 流动性猎杀的关键：看影线超出前高后，收盘是否在前高以内。然后等一个信号K，入场做空
+    ![alt text](pic/image-118.png)
+3. SFP是什么？弱的突破、弱的BOS或SMB、弱的趋势、流动性/止损猎杀SFP
+    ![alt text](pic/image-119.png)
+    ![alt text](pic/image-120.png)
+    > SFP多出现在杠杆合约里，越是吊锤的最高点，被扫止损的概率越大
+4. 如何识别SFP？
+    ![alt text](pic/image-121.png)
+5. 优质的SFP1
+    ![alt text](pic/image-122.png)
+    > SFP只考虑大的主要波段中有效，内部微观不考虑
+6. 优质SFP2
+    ![alt text](pic/image-123.png)
+7. 优质SFP3
+    ![alt text](pic/image-124.png)
+> 所有参与支撑阻力的位置都可以使用SFP，作为开仓信号
+8. 扫止损入场（看不明白危险在哪里）
+    ![alt text](pic/image-125.png)
+9. 扫止损入场
+    ![alt text](pic/image-126.png)
+10. 扫止损入场
+    ![alt text](pic/image-127.png)
+11. 安全入场扫止损模型1
+    ![alt text](pic/image-128.png)
+12. 安全入场扫止损模型2
+    ![alt text](pic/image-129.png)
+13. 多周期扫止损入场（大周期扫止损，小周期入场）
+    ![alt text](pic/image-130.png)
+14. 
