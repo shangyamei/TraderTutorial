@@ -1,0 +1,19 @@
+1. ICT中由加密货币引申出的模型
+    ![alt text](pic/image-131.png)
+2. 积累阶段大量大阴线，给人觉得要继续下跌了，积攒大量空头订单
+    ![alt text](pic/image-132.png)
+    ![alt text](pic/image-133.png)
+3. 普通PO3形态
+    ![alt text](pic/image-134.png)
+> 所有的PO3形态都不是小行情，都是有大行情的
+4. PO3交易形态1，通常前面涨了很久了
+    ![alt text](pic/image-135.png)
+5. PO3交易形态2
+    ![alt text](pic/image-136.png)
+    ![alt text](pic/image-137.png)
+6. PO3交易形态3，流动性猎杀
+    ![alt text](pic/image-138.png)
+7. 例子，和PO3没关系
+    ![alt text](pic/image-139.png)
+8. 例子
+    ![alt text](pic/image-140.png)
