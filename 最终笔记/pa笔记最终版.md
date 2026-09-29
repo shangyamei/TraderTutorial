@@ -31,7 +31,7 @@
     ![alt text](pic/image-2.png)
 27. 在突破后的ioi形态，看回调是一个旗形
     ![alt text](pic/image-3.png)
-28. 其实后期，大k线之后，迟迟未形成突破，可能导致反转
+28. 趋势后期，大k线之后，迟迟未形成突破，可能导致反转
     ![alt text](pic/image-4.png)
 29. 大的外包k，用限价单赌交易区间突破失败更好，尤其上下影线很长的。因为外包k通常是紧密交易区间的一部分
     ![alt text](pic/image-5.png)
@@ -53,4 +53,6 @@
     ![alt text](pic/image-13.png)
     ![alt text](pic/image-14.png)
 38. 如何数H1、H2、L1、L2：
-    
+    - H1：下跌过程中第一次k线高点超过前一根k的最高点
+    ![alt text](pic/image-15.png)
+    - 
