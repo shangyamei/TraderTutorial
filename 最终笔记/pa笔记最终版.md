@@ -55,4 +55,18 @@
 38. 如何数H1、H2、L1、L2：
     - H1：下跌过程中第一次k线高点超过前一根k的最高点
     ![alt text](pic/image-15.png)
-    - 
+39. H1用来推止损也很不错
+    ![alt text](pic/image-16.png)
+40. 趋势回调幅度可作为mm进行测量趋势恢复后移动的目标位
+    ![alt text](pic/image-17.png)
+41. 圆弧顶，要小心慢慢跌后突然下跌高潮，圆弧+急速/高潮
+    ![alt text](pic/image-18.png)
+42. 牛旗是一个紧密的空头通道（k线数量超过20根）时，要小心是无尽回调，是早期的空头趋势。在ema附近还不上涨，就要赶紧平仓离场，反手做空
+    ![alt text](pic/image-19.png)
+    ![alt text](pic/image-20.png)
+    ![alt text](pic/image-21.png)
+43. 在逆势交易时，大部分交易者会让市场对他们不利一次，不会允许不利两次。这也就是会出现ab=cd的两段式原因
+    ![alt text](pic/image-22.png)
+    ![alt text](pic/image-23.png)
+44. 强势的趋势总是会形成楔形反转，双顶等骗你，但80%都会失败，延续趋势。破解方法是摆动低点推止损
+    ![alt text](pic/image-24.png)
