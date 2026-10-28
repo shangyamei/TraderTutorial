@@ -76,3 +76,29 @@
     ![alt text](pic/image-26.png)
 47. **缺口：当前k的收盘价和前一根k的低点之间的空间**
     ![alt text](pic/image-27.png)
+48. 市场的四种形态
+    - 紧密的多头通道回调通常只只需1-3根k
+    - 宽幅通道，如果回撤达到2/3了，那么再次突破后也走不远，可以在超过1/3处进行做空
+    ![alt text](pic/image-58.png)
+49. 突破k/惊喜k可以分三次进场，每次1/3
+    - 看到了就直接进场
+    - 收盘进场
+    - 回调50%进场
+    ![alt text](pic/image-59.png)
+50. AIL:Always in long
+    - 可能源于一根大阳线
+    - 可能源自两根中等大小阳线
+    - 可能由3-5根小阳线构成
+    ![alt text](pic/image-60.png)
+    ![alt text](pic/image-61.png)
+    ![alt text](pic/image-62.png)
+51. AIL可能源自当天的特征，当天是一个突破日的话，就会触发AIL。一旦突破，市场就会受制于突破，形成AIL
+    - AIL多头将持续买入，除非空头制造出可靠的顶部
+    ![alt text](pic/image-63.png)
+52. 区分楔形和旗形？顺势的叫楔形，逆势的叫旗形
+    ![alt text](pic/image-64.png)
+53. 如果不擅长再次卖出做空，那么即使市场反弹最好保持仓位不动
+    - 图中止盈是因为突破了小区间
+    ![alt text](pic/image-65.png)
+54. 反转通常需要再多一根k进行确认
+    ![alt text](pic/image-66.png)
